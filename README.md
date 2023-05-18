@@ -4,7 +4,7 @@ Hello, This is my first project for [Frontend Mentor](https://www.frontendmentor
 
 ### Screenshot
 
-![](./design/project//images/screenshot.png)
+![](./images/screenshot.png)
 
 ### What I learned
 
