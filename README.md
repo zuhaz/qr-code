@@ -2,6 +2,10 @@
 
 Hello, This is my first project for [Frontend Mentor](https://www.frontendmentor.io/), even though it was a small project but it was quite fun while making it. I'm looking forward to learn more and grow further.
 
+### Live Example
+
+- [Go to Live Example](https://qr-code-frontendmentor-by-zuhaz.netlify.app/)
+
 ### Screenshot
 
 ![](./images/screenshot.png)
